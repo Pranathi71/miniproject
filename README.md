@@ -52,6 +52,6 @@ React Router: For client-side routing in React.js.
 
 **sample pictures of User Dashboard
 ![Screenshot 2024-09-02 132417](https://github.com/user-attachments/assets/d50abc4f-3d8e-48c2-8c4e-e14bfd8dd920)
-![Screenshot 2024-09-02 132335](https://github.com/user-attachments/assets/59cddd64-a780-4d85-88f0-0367c06e0047)
+
 
 
