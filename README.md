@@ -46,12 +46,15 @@ Axios: For making HTTP requests from the frontend to the backend.
 React Router: For client-side routing in React.js.
 
 ** sample pictures of Admin Dashboard
-![Screenshot 2024-09-02 132232](https://github.com/user-attachments/assets/7d00ecc9-a262-4e24-af08-34dd722539c4)
 ![Screenshot 2024-09-02 132148](https://github.com/user-attachments/assets/19cd1cce-9c7e-426b-947f-493ffd1bbb16)
 ![Screenshot 2024-09-02 132046](https://github.com/user-attachments/assets/582e4de7-00b6-4e47-be1c-2d87a43ccb9e)
+![Screenshot 2024-09-02 132232](https://github.com/user-attachments/assets/7d00ecc9-a262-4e24-af08-34dd722539c4)
+
+
 
 **sample pictures of User Dashboard
-![Screenshot 2024-09-02 132417](https://github.com/user-attachments/assets/d50abc4f-3d8e-48c2-8c4e-e14bfd8dd920)
+![Screenshot 2024-09-02 132335](https://github.com/user-attachments/assets/8fdba000-d327-4542-84ab-5d9178c0eead)
+
 
 
 
